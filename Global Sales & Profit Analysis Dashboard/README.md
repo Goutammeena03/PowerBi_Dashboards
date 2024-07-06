@@ -1,10 +1,9 @@
 # Sales and Profit Analysis Dashboard
 
 ![Overview & Sales Analysis Dashboard](Overview_Sales_Analysis_Dashboard.png)
-![Screenshot 2024-07-05 232327](https://github.com/Goutammeena03/PowerBi_Dashboards/assets/125290702/e7c7d4bc-e98f-40b8-95b9-01535cb0b4fb)
 
-![Profit Anlysis Dashboard](Overview_Sales_Analysis_Dashboard.png)
-![Screenshot 2024-07-05 232506](https://github.com/Goutammeena03/PowerBi_Dashboards/assets/125290702/c0df2922-c917-4a50-b708-efb5f5f71b5f)
+
+![Profit Anlysis Dashboard](Profit_Analysis_Dashboard.png)
 
 
 ## Overview
