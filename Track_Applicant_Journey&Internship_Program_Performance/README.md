@@ -71,16 +71,13 @@ To measure and improve our recruitment strategies, we developed key performance 
 Below are some of the interactive dashboards created for this project:
 
 ### Dashboard 1: Overview Demographics Analysis
-![Overview Demographic Analysis](images/dashboard1.png)![Overview_Demographic](https://github.com/Goutammeena03/PowerBi_Dashboards/assets/125290702/6fcfa071-acaf-4bb3-9539-3e659f2a0166)
-
+![Overview Demographic Analysis](Correlation_Analysis.png)
 
 ### Dashboard 2: Correlation Analysis
-![Correlation Anlysis](images/dashboard2.png)![Correlation_Analysis](https://github.com/Goutammeena03/PowerBi_Dashboards/assets/125290702/43275c35-ac88-4de0-8342-aad650c5c7e8)
-
+![Correlation Anlysis](Correlation_Analysis.png)
 
 ### Dashboard 3: Placement Analysis
-![Placement Analysis](images/dashboard3.png)
-![Placement_Analysis](https://github.com/Goutammeena03/PowerBi_Dashboards/assets/125290702/0e627cae-814b-48d5-a63f-e15b11432ca0)
+![Placement Analysis](Correlation_Analysis.png)
 
 ## Conclusion
 
