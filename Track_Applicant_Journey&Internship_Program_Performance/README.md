@@ -71,7 +71,7 @@ To measure and improve our recruitment strategies, we developed key performance 
 Below are some of the interactive dashboards created for this project:
 
 ### Dashboard 1: Overview Demographics Analysis
-![Overview Demographic Analysis](Correlation_Analysis.png)
+![Overview Demographic Analysis](Overview_Demographic.png)
 
 ### Dashboard 2: Correlation Analysis
 ![Correlation Anlysis](Correlation_Analysis.png)
