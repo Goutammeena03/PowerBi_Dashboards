@@ -77,7 +77,7 @@ Below are some of the interactive dashboards created for this project:
 ![Correlation Anlysis](Correlation_Analysis.png)
 
 ### Dashboard 3: Placement Analysis
-![Placement Analysis](Correlation_Analysis.png)
+![Placement Analysis](Placement_Analysis.png)
 
 ## Conclusion
 
